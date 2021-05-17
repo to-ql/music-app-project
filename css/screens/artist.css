@@ -84,6 +84,7 @@
 
 .artist-component__songlist {
   position: relative;
+  border-radius: 10px;
 }
 .artist-component__songlist a {
   width: 250px;
